@@ -9,17 +9,8 @@ A note based on Satoshis would enable anonymous P2P transactions.
 
 Requirements towards satoshi cash:
 
-1)
-The note or coin must be counterfeight-proof. The banknote must be verifiable.
-
-2)
-Double Spend: Each satoshi on a note only exists once on a note.
-
-3)
-Scam / Rug Pull protection. It should be no issue who issues the note. Ideal would to have issuer, without the need to trust.
-
-4)
-Resistance against regulation. It would be great, if there is no single point of attack to the cash system.
-
-5)
-...
+1) The note or coin must be counterfeight-proof. The banknote must be verifiable.
+2) Double Spend: Each satoshi on a note only exists once on a note.
+3) Scam / Rug Pull protection. It should be no issue who issues the note. Ideal would to have issuer, without the need to trust.
+4) Resistance against regulation. It would be great, if there is no single point of attack to the cash system.
+5) ...
