@@ -2,6 +2,7 @@
 Open Source Cash System for Bitcoin
 
 Problems to solve:
+
 We live in a physical world and many people do transactions with cash. Potentially a bitcoin cash system would lower the entry level to participate on bitcoin.
 There is no popular / florishing cash system which settles on Bitcoin or Bitcoin second layer like Fedimint, Lightning or Liquid.
 
