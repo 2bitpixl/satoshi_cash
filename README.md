@@ -16,7 +16,7 @@ Requirements towards satoshi cash:
 5) ...
 
 Projects from the past:
-cascasius: https://bitcoinwiki.org/de/wiki/casascius-physische-bitcoins
+cascasius physical bitcoin: https://bitcoinwiki.org/de/wiki/casascius-physische-bitcoins
 
 What are possible to tools to solve the Requirements:
 
